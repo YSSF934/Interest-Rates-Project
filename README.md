@@ -8,4 +8,6 @@ Tools & Methods: The data set was pretty clean overall.  I had to change data ty
 
 Analysis: 
 
+<img src="images/cardutil.png" width="70%" />  
+
 Recommendation: In policy that addresses U.S. student debt consider region, ethnicity, and college size to determine how graduates actually experience the U.S. college debt crisis.
