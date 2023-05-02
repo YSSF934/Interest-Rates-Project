@@ -8,6 +8,14 @@ Tools & Methods: The data set was pretty clean overall.  I had to change data ty
 
 Analysis: 
 
+One theme in particular which stood out was that the borrower rate decreased with the amount of credit available in both overall dollar and percentage terms as shown below:
+
+<img src="Images/avcredit.png" width="70%" />  
+
+Bank Card Utilization shows borrower % credit available
 <img src="Images/cardutil.png" width="70%" />  
 
-Recommendation: In policy that addresses U.S. student debt consider region, ethnicity, and college size to determine how graduates actually experience the U.S. college debt crisis.
+Another surprise finding was that owning a home did not result in better borrower rates and for some credit grades the borrower rate was even higher ( D borrower and below)
+<img src="Images/homeowner.png" width="70%" />  
+
+Recommendation: 
