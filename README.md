@@ -12,10 +12,12 @@ One theme in particular which stood out was that the borrower rate decreased wit
 
 <img src="Images/avcredit.png" width="70%" />  
 
-Bank Card Utilization shows borrower % credit available
 <img src="Images/cardutil.png" width="70%" />  
 
-Another surprise finding was that owning a home did not result in better borrower rates and for some credit grades the borrower rate was even higher ( D borrower and below)
-<img src="Images/homeowner.png" width="70%" />  
+Higher rates shown across all debt/income ratios as bank card utilization(total credit/totaldebt) increases   
 
-Recommendation: 
+<img src="Images/homeowner.png" width="50%" />  
+
+Another surprise finding was that owning a home did not result in better borrower rates and for some credit grades the borrower rate was even higher ( D borrower and below)
+
+Recommendation: Borrowers can reduce rates on loans by keeping high available credit levels and borrowing at shorter loan time frames
