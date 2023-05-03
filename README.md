@@ -1,6 +1,6 @@
 # What factors drive consumer interest rates?  
  
-This project explores this question using the Prosper Loan dataset with Python and Seaborn visualiztions.  The Prosper loan dataset contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate, current loan status, borrower income, and others.
+This project explores this question using the Prosper Loan dataset with Python and Seaborn visualizations.  The Prosper loan dataset contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate, current loan status, borrower income, and others.
 
 #### Inquiry: 
 Investigated patterns in loans including amount, borrower rate, current loan status, borrower income, and others to help stakeholders/lenders understand the composition of their portfolio and identify risks and opportunities.
