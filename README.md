@@ -13,7 +13,7 @@ One theme in particular which stood out was that the borrower rate decreased wit
 
 <img src="Images/avcredit.png" width="70%" />  
 
-<img src="Images/cardutil.png" width="70%" />  
+<img src="Images/cardutil.png" width="80%" />  
 
 Higher rates shown across all debt/income ratios as bank card utilization(total credit/totaldebt) increases   
 
